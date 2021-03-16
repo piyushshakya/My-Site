@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+}
+
+.top-container{
+    font: 50px 'Sacramento', cursive;
+    color: #008ea7;
+    background-color: #a0f1ff;
+    padding: 50px 0 120px;
+    text-align: center;
+    position: relative;
+}
+/* .top-container h1{
+    font: 50px 'Sacramento', cursive;
+    color: #008ea7;
+    font-weight: bold;
+}*/
+.top-container p{
+    font: 30px cursive;
+    color: #008ea7;
+} 
+
+.pro{
+    text-decoration: underline;
+}
+img{
+    height: 25%;
+    width: 25%;
+    display: inline-block;
+}
+
+.upper-cloud{
+    height: 100px;
+    position: relative;
+    right: -350px;
+    top: -80px;
+    padding-top: 100px;
+}
+
+.lower-cloud{
+    height: 100px;
+    width: 240px;
+    position: relative;
+    right:150px;
+    bottom:50px;
+}
+.mountain{
+    position: relative;
+    height: 260px;
+    width: auto;
+    top: 140px;
+    left: -50px;
+}
+
+.middle-container{
+    color: #006c80;
+    padding-top: 100px;
+    height: 700px;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.profile h1{
+    font-size: 50px;
+}
+
+.profile h4{
+    font-size: 40px;
+}
+
+.profile img{
+    height: 250px;
+    width: auto;
+    border-radius: 50%;
+}
+
+hr{
+    border-top: 10px dotted #8d8d8d;
+    width: 6%;
+    margin: 60px auto;
+}
+
+.mySkills h1{
+    font-size: 50px;
+}
+
+.bottom-container{
+    background-color:#295966;
+    color:white;
+    height: 60px;
+    width: 100%;
+    padding: 30px 0 0;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
