@@ -290,7 +290,7 @@ hr{
     font-size: 20px;
     background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(0, 0, 0, 0.8));
     color: rgba(255, 255, 255);
-    transition: 0.2s ease-in;
+    transition: 0.3s ease-in;
 }
 
 .column .submit-btn:hover{
