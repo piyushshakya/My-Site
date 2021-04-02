@@ -329,3 +329,6 @@ hr{
 .col2 .social :hover{
     transform: scale(1.2);
 }
+::selection{
+    background-color: #00a1bd79;
+}
